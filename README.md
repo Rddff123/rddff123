@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Aim
+*   MP3 Player: Trying to better the play button and adding a bar
+*   Speed-adding ball
+      >   Change the Ball to other characters(?)
+*   BBC crawler(For learning English by Chinese)
